@@ -3,9 +3,9 @@
     
     <groupId>com.smaject</groupId>
     <artifactId>javaee-basic-archetype</artifactId>
-    <version>7.0</version>
+    <version>8.0</version>
     <name>javaee-basic-archetype</name>
-    <description>Minimalistic Java EE 7 project template</description>
+    <description>Basic JEE project template</description>
     <url>http://smaject.com</url>
 
     <organization>

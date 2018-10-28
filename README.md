@@ -1,8 +1,8 @@
-# A minimalistic JavaEE 7 Maven Archetype
+# A minimalistic JavaEE 8 Maven Archetype
 
-Just includes the basic JEE 7 dependency, a beans.xml and JAXRSConfiguration
+Just includes the basic JEE 8 dependency, a beans.xml and JAXRSConfiguration
 
-## Install the aretype to your local
+## Install the archetype to your local
 1. clone this repo
 2. `mvn clean install`
 
@@ -11,4 +11,4 @@ Just includes the basic JEE 7 dependency, a beans.xml and JAXRSConfiguration
 	mvn archetype:generate                                  \
 	  -DarchetypeGroupId=com.smaject                		\
 	  -DarchetypeArtifactId=javaee-basic-archetype          \
-	  -DarchetypeVersion=7.0
+	  -DarchetypeVersion=8.0
